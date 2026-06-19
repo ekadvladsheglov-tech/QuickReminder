@@ -13,10 +13,6 @@
 
 > 🎯 Умная напоминалка для Windows, которая не даст забыть важные дела!
 
-<p align="center">
-  <img src="screenshot.png" alt="QuickReminder Screenshot" width="600">
-</p>
-
 ---
 
 ## ✨ Возможности
@@ -60,16 +56,6 @@
 | Настройки | Кнопка ⚙️ |
 | Тест уведомления | Кнопка «Тест уведомления» |
 | Обновление | Кнопка 🔄 |
-
----
-
-## 📸 Скриншоты
-
-<p align="center">
-  <img src="screenshots/main.png" width="400" alt="Главное окно">
-  <img src="screenshots/notification.png" width="400" alt="Уведомление">
-  <img src="screenshots/settings.png" width="400" alt="Настройки">
-</p>
 
 ---
 
