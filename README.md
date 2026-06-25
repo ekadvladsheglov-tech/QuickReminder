@@ -9,7 +9,6 @@
 [![Version](https://img.shields.io/badge/version-2.0.0-green)](https://github.com/ekadvladsheglov-tech/QuickReminder/releases)
 [![Platform](https://img.shields.io/badge/platform-Windows-blue)](https://github.com/ekadvladsheglov-tech/QuickReminder)
 [![License](https://img.shields.io/badge/license-Free-orange)](https://github.com/ekadvladsheglov-tech/QuickReminder)
-[![Downloads](https://img.shields.io/badge/downloads-100%2B-brightgreen)](https://github.com/ekadvladsheglov-tech/QuickReminder/releases)
 
 > 🎯 Умная напоминалка для Windows, которая не даст забыть важные дела!
 
